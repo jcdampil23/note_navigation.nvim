@@ -2,7 +2,7 @@
 
 ## Preview
 
-![preview.mov](https://github.com/jcdampil23/note_navigation.nvim/blob/main/preview.mov)
+![preview.mov](preview.gif)
 ## Features
 - Note Navigation and creation.
 - Add your own header or footer for every created note.
