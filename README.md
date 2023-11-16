@@ -1,7 +1,8 @@
 # Note Navigation
 
 ## Preview
-![](preview.mov)
+
+![preview.mov](https://github.com/jcdampil23/note_navigation.nvim/blob/main/preview.mov)
 ## Features
 - Note Navigation and creation.
 - Add your own header or footer for every created note.
