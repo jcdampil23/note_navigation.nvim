@@ -66,7 +66,7 @@ local function generateCommands()
     vim.api.nvim_create_user_command(
         'GoToOrCreateNote',
         function(opts)
-            vim.cmd('lcd ' .. context.opts.note.directory);
+            vim.cmd('lcd ' .. context.opts.directory);
             vim.cmd.write();
             local filePath = vim.fn.expand(opts.args);
             local completePath = vim.fn.expand(
